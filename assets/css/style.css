@@ -1,0 +1,55 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+table{
+    border: 2px solid aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td ,tr{
+    margin-left: 50px;
+    margin-right: auto;
+    border: 2px solid aliceblue;
+    width: 200px;
+}
+
+td.social{
+    border: none;
+}
+
+.mainBar{
+    width: 100%;
+    text-size-adjust: 10%;
+    border: none;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#home, #menu{
+    border: none;
+}
+
+#home{
+    text-align: right;
+    position: relative;
+    float: right;
+}
+
+.intro{
+    text-align: center;
+    margin-top: 50%;
+    width: 700px;
+    height: 700px;
+}
+
+.social{
+    text-align: left;
+    height: 70px;
+}
+
+.contact{
+    text-align: center;
+}
